@@ -1,0 +1,65 @@
+id: indenova
+name: inDenova a Lleida.net Company
+slogan: The first registering operator
+website: https://www.lleida.net/
+
+# Short description, longer content can be placed in `content/members/`
+description: Lleida.net offers certification to the electronic notification and contracting processes, including data validation solutions ranging from telephone or email validation to identity through the so-called "electronic Know Your Customer" (eKYC) and the issuing of digital identities.
+
+# membership
+memberSince: 2022-12-28
+memberType: CA
+workingGroups:
+  - CA
+  - PKIMM
+
+# sponsor
+
+# Blog posts
+blog: 
+  url: https://blog.lleida.net/en/?_ga=2.255103752.1418769647.1672226015-1403888471.1672226014
+  language: en_US
+
+# Press Releases
+press: 
+  url: https://www.lleida.net/en/press
+  language: en_US
+
+# Careers
+careers: 
+  url: https://www.lleida.net/en/company/work-with-us
+  feed: 
+  language: en_US
+
+# Social media
+social:
+  twitter: https://twitter.com/lleidanet
+  facebook: https://www.facebook.com/Lleida.net
+  instagram: https://www.instagram.com/lleidanet/?hl=es
+  linkedin: https://www.linkedin.com/company/lleidanetworks-serveis-telem-tics-s-l-
+  youtube: https://www.youtube.com/user/lleidanet?sub_confirmation=1
+
+# Here you can list those who represent or have represented the member.
+#
+# Those wo no longer represent an organization might have written blog posts,
+# to keep the attribution a from/till data range can be included.
+representatives:
+  - name: Francisco Sapena Soler
+    role: CEO and President
+    social:
+      twitter: https://twitter.com/siscosisco
+      linkedin: https://www.linkedin.com/in/siscosapena/?originalSubdomain=es
+    description:
+      Entrepreneur, non-serial but serious founder , inventor with 150+ granted patents worldwide, passionate about life and proud of being able to guide my team to build a multinational company from a feeling to a dual listed company in two stock markets (#mab and #euronext growth) and more in the future ;-)
+
+  - name: Jordi Gisbert Rodas
+    role: Chief Innovation Officer
+    social:
+      twitter:
+      linkedin:
+    description:
+      Entrepeneur. Founder of inDenova which was acquired by Lleida.net in 2021. Since 2004 Jordi Gisbert is Chief Operations Officer for Indenova and since 12/2022 Chief New Products Officer for Lleida.net. 
+      Passionate about technology in general and Digital Identity, crypto, PKI, automation, IA, MachineLearning and blockchain in particular.
+      Jordi Gisbert has a background in project managment and has been working in public key infraestructure since 2001, helping Spanish Certification Authorities deploiying PKI solutions until 2018 when Indenova starts his operations as a Certification Authority.
+
+  
